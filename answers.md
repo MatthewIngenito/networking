@@ -7,3 +7,6 @@
 ## TCP Ports
 # Port 80 is the default that HyperText Protocol Web services listen to for web browser requests
 # Port 443 is the default for secure HTTP
+# Port 194 is the Internet Relay Chat, which messaging apps use
+# Port 20 is used to transfer data to the FTP clients
+# Port 67 is used to listen to requests from Dynamic Host Configuration Protocol
